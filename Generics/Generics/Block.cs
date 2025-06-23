@@ -8,6 +8,9 @@ namespace Generics
 {
     internal class Block<T>:IBlock<T> where T : class
     {
-
+        public T Process(T input)
+        {
+            return input;
+        }
     }
 }

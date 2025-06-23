@@ -3,3 +3,13 @@ C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.
 C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
 C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
 C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.sourcelink.json
+C:\Code\Generics\Generics\Generics\bin\Debug\net6.0\Generics.exe
+C:\Code\Generics\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\Code\Generics\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\Code\Generics\Generics\Generics\bin\Debug\net6.0\Generics.dll
+C:\Code\Generics\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.dll
+C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\Code\Generics\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll

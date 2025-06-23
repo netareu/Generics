@@ -8,13 +8,19 @@ namespace Generics
 {
     internal class DataFlow<T>:IDataFlow<T> where T : class
     {
-        public LinkedList<Block> DataBlocksFlow {  get; private set; }
-        private LinkedListNode<Block> _currentNode;
+        public LinkedList<IBlock<T>> DataBlocksFlow {  get; private set; }
+        private LinkedListNode<IBlock<T>> _currentNode;
         public T RunFlow(T input)
         {
+            if (DataBlocksFlow == null || DataBlocksFlow.Count == 0)
+            {
+                return input;
+            }
+
             _currentNode = DataBlocksFlow.First;
             T output = _currentNode.Value.Process(input);
-            foreach (Block block in DataBlocksFlow)
+
+            foreach (IBlock<T> block in DataBlocksFlow)
             {
                 _currentNode = _currentNode.Next;
                 output = block.Process(output);

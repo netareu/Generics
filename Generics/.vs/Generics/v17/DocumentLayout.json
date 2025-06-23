@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Code\\Generics\\Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\dataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\dataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\idataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\idataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,37 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Block.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\Block.cs",
               "RelativeDocumentMoniker": "Generics\\Block.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\Block.cs",
               "RelativeToolTip": "Generics\\Block.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T20:07:24.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataFlow.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\DataFlow.cs",
               "RelativeDocumentMoniker": "Generics\\DataFlow.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\DataFlow.cs",
               "RelativeToolTip": "Generics\\DataFlow.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T19:52:14.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IDataFlow.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\IDataFlow.cs",
               "RelativeDocumentMoniker": "Generics\\IDataFlow.cs",
@@ -79,9 +79,10 @@
               "RelativeDocumentMoniker": "Generics\\IBlock.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\IBlock.cs",
               "RelativeToolTip": "Generics\\IBlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:45:44.434Z"
+              "WhenOpened": "2025-06-23T19:45:44.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

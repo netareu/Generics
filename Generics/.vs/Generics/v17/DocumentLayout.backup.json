@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Generics\\Block.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\Block.cs",
               "RelativeToolTip": "Generics\\Block.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T20:07:24.916Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Generics\\DataFlow.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\DataFlow.cs",
               "RelativeToolTip": "Generics\\DataFlow.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T19:52:14.079Z",
               "EditorCaption": ""
@@ -79,9 +79,10 @@
               "RelativeDocumentMoniker": "Generics\\IBlock.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\IBlock.cs",
               "RelativeToolTip": "Generics\\IBlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:45:44.434Z"
+              "WhenOpened": "2025-06-23T19:45:44.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

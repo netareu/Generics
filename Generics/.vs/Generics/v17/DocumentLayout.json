@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Code\\Generics\\Generics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\dataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\dataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\uppercaseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\uppercaseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\reverseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\reverseblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\dataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|solutionrelative:generics\\dataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9283A0B3-62B1-429E-80F6-4A77EA1B4A44}|Generics\\Generics.csproj|c:\\code\\generics\\generics\\generics\\idataflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ReplaceAWithSixBlock.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\ReplaceAWithSixBlock.cs",
               "RelativeDocumentMoniker": "Generics\\ReplaceAWithSixBlock.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Generics\\ReplaceAWithSixBlock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T21:14:50.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T21:14:50.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ReverseBlock.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\ReverseBlock.cs",
               "RelativeDocumentMoniker": "Generics\\ReverseBlock.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Generics\\ReverseBlock.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T21:10:07.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T21:10:07.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UpperCaseBlock.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\UpperCaseBlock.cs",
               "RelativeDocumentMoniker": "Generics\\UpperCaseBlock.cs",
@@ -85,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Block.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\Block.cs",
               "RelativeDocumentMoniker": "Generics\\Block.cs",
@@ -93,18 +91,17 @@
               "RelativeToolTip": "Generics\\Block.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:07:24.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T20:07:24.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DataFlow.cs",
               "DocumentMoniker": "C:\\Code\\Generics\\Generics\\Generics\\DataFlow.cs",
               "RelativeDocumentMoniker": "Generics\\DataFlow.cs",
               "ToolTip": "C:\\Code\\Generics\\Generics\\Generics\\DataFlow.cs",
               "RelativeToolTip": "Generics\\DataFlow.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T19:52:14.079Z",
               "EditorCaption": ""
@@ -119,8 +116,7 @@
               "RelativeToolTip": "Generics\\IDataFlow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:46:35.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:46:35.174Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "Generics\\IBlock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:45:44.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:45:44.434Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "Generics\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:43:13.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:43:13.878Z"
             }
           ]
         }

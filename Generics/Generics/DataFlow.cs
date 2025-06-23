@@ -8,7 +8,7 @@ namespace Generics
 {
     internal class DataFlow<T>:IDataFlow<T> where T : class
     {
-        public LinkedList<IBlock<T>> DataBlocksFlow {  get; private set; }
+        public LinkedList<IBlock<T>> DataBlocksFlow = new LinkedList<IBlock<T>>();
         private LinkedListNode<IBlock<T>> _currentNode;
         public T RunFlow(T input)
         {

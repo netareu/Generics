@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Generics
 {
-    internal class Block
+    internal class Block<T>:IBlock<T> where T : class
     {
+
     }
 }
